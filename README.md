@@ -1,4 +1,2 @@
 # first-repo
-CGRdsaDOsfsa
-sfsfsfsafs
-sfsfsf
+Using Git diff to test
